@@ -1,1 +1,2 @@
 fuzhengwei/chatgpt-web-app:5.1
+mysql:8.0.32
