@@ -1,3 +1,4 @@
 tensorflow/tensorflow:nightly-jupyter
 tensorflow/tensorflow:nightly-gpu-jupyter
 jenkinsci/blueocean
+debian:bullseye-slim
