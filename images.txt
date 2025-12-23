@@ -1,1 +1,2 @@
-ubuntu/squid:latest
+rockchin/langbot:latest
+rockchin/langbot:latest
