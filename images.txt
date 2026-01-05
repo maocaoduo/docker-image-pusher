@@ -1,1 +1,1 @@
-redis:8.2.1
+langflowai/langflow:latest
