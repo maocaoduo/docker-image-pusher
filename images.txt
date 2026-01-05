@@ -1,1 +1,1 @@
-langflowai/langflow:1.3.0
+langflowai/langflow:1.2.0
