@@ -1,1 +1,1 @@
-langflowai/langflow:latest
+langflowai/langflow:1.2
