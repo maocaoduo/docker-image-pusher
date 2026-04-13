@@ -1,1 +1,13 @@
 langflowai/langflow:1.2.0
+gogs/gogs:0.13.0
+sonatype/nexus3:3.68.0
+redis:7.2.0
+mongo:7.0
+dpage/pgadmin4:9.10
+n8nio/n8n:1.123.0
+uozi/nginx-ui:v2.3.2
+solr:9.4
+tomcat:9.0.98-jdk17
+docker.elastic.co/kibana/kibana:9.3.0
+docker.elastic.co/elasticsearch/elasticsearch:9.3.0
+tomcat:11.0.2-jdk21
